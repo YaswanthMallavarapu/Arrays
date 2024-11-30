@@ -21,8 +21,5 @@ public class LargestSubarrayWithGivenSum {
         }
         return longest;
     }
-    public static void main(String[] args) {
-        int nums[]={10,15,-5,15,-10,5};
-        System.out.println(largest(nums, 5));
-    }
+   
 }
